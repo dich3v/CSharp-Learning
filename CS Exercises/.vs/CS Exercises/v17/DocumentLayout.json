@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26407FEA-BD52-4339-9419-81655D151937}|CS Exercises\\CS Exercises.csproj|c:\\softuni exercises\\cs exercises\\cs exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26407FEA-BD52-4339-9419-81655D151937}|CS Exercises\\CS Exercises.csproj|solutionrelative:cs exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7060DBB6-6DED-4DFE-9C5A-D31D8C58E2AD}|Task2\\Task2.csproj|c:\\softuni exercises\\cs exercises\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7060DBB6-6DED-4DFE-9C5A-D31D8C58E2AD}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26407FEA-BD52-4339-9419-81655D151937}|CS Exercises\\Task1.csproj|c:\\softuni exercises\\cs exercises\\cs exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26407FEA-BD52-4339-9419-81655D151937}|CS Exercises\\Task1.csproj|solutionrelative:cs exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:25:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Program.cs",
               "RelativeDocumentMoniker": "CS Exercises\\Program.cs",
