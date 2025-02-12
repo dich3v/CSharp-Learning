@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "CS Exercises\Task1.csproj", "{26407FEA-BD52-4339-9419-81655D151937}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "Task2\Task2.csproj", "{7060DBB6-6DED-4DFE-9C5A-D31D8C58E2AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_TradeCommissionCalculator", "Task2\Task_TradeCommissionCalculator.csproj", "{7060DBB6-6DED-4DFE-9C5A-D31D8C58E2AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj", "{BC73AC58-1F59-4DCF-A02A-73F0CFF85E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_HotelPriceCalculator", "Task3\Task_HotelPriceCalculator.csproj", "{BC73AC58-1F59-4DCF-A02A-73F0CFF85E5D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_MaxNumberSumComparison", "Task4\Task_MaxNumberSumComparison.csproj", "{A7595082-C2FC-4E69-BBE6-679873166884}"
 EndProject

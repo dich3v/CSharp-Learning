@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGEQ5zP3yZeCNEfoJRHXbuCGcW6XxF2kSLXqS/J6y+hwT3dctLp2sTyIp3JadSspFQIpxbYqQbyQ9gQ5FKLLwA==",
+  "dgSpecHash": "1THWvbYVBGZOmtjKZM+nw7ittESiqCb6/YYvYxr9+A0TbeyYwh2yFsJ5IxhmiC4sdfTMdnEDdcrb8VcaTBGDBA==",
   "success": true,
-  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task2.csproj",
+  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task_TradeCommissionCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",

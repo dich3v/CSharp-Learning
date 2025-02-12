@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task2.csproj",
-      "projectName": "Task2",
-      "projectPath": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task2.csproj",
+      "projectUniqueName": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task_TradeCommissionCalculator.csproj",
+      "projectName": "Task_TradeCommissionCalculator",
+      "projectPath": "C:\\Softuni exercises\\CS Exercises\\Task2\\Task_TradeCommissionCalculator.csproj",
       "packagesPath": "C:\\Users\\rados\\.nuget\\packages\\",
       "outputPath": "C:\\Softuni exercises\\CS Exercises\\Task2\\obj\\",
       "projectStyle": "PackageReference",
