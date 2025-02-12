@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7595082-C2FC-4E69-BBE6-679873166884}|Task4\\Task4.csproj|c:\\softuni exercises\\cs exercises\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7595082-C2FC-4E69-BBE6-679873166884}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC73AC58-1F59-4DCF-A02A-73F0CFF85E5D}|Task3\\Task3.csproj|c:\\softuni exercises\\cs exercises\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC73AC58-1F59-4DCF-A02A-73F0CFF85E5D}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:21:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
