@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_Histogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfc19db4083a01f7e8879fca6d9080b4e1ec5ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c214477318f045d9dd16f771421a802956d73ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_Histogram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_Histogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

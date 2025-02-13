@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Histogram", "Task_Histogram\Task_Histogram.csproj", "{64B8BE75-3C70-4D09-BF64-9027F15EAC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Clever_Lilly", "Task_Clever_Lilly\Task_Clever_Lilly.csproj", "{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Clever_Lilly", "Task_Clever_Lilly\Task_Clever_Lilly.csproj", "{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Actor_Nominee_Calculator", "Task_Actor_Nominee_Calculator\Task_Actor_Nominee_Calculator.csproj", "{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
