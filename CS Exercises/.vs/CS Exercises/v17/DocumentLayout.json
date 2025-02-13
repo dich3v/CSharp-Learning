@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}|Task_Clever_Lilly\\Task_Clever_Lilly.csproj|c:\\softuni exercises\\cs exercises\\task_clever_lilly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46DB68B-C6BC-4D6E-B615-DE5C05C34156}|Task_Clever_Lilly\\Task_Clever_Lilly.csproj|solutionrelative:task_clever_lilly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64B8BE75-3C70-4D09-BF64-9027F15EAC3A}|Task_Histogram\\Task_Histogram.csproj|c:\\softuni exercises\\cs exercises\\task_histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B8BE75-3C70-4D09-BF64-9027F15EAC3A}|Task_Histogram\\Task_Histogram.csproj|solutionrelative:task_histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Clever_Lilly\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Clever_Lilly\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Clever_Lilly\\Program.cs",
+              "RelativeToolTip": "Task_Clever_Lilly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:12:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Histogram\\Program.cs",
               "RelativeDocumentMoniker": "Task_Histogram\\Program.cs",
