@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\bin\Debug\net6.0\Task_RepeatingText.exe
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\bin\Debug\net6.0\Task_RepeatingText.deps.json
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\bin\Debug\net6.0\Task_RepeatingText.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\bin\Debug\net6.0\Task_RepeatingText.dll
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\bin\Debug\net6.0\Task_RepeatingText.pdb
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.dll
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\refint\Task_RepeatingText.dll
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.pdb
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\Task_RepeatingText.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_RepeatingText\obj\Debug\net6.0\ref\Task_RepeatingText.dll

@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\Softuni exercises\CS Exercises\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\Softuni exercises\CS Exercises\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\Softuni exercises\CS Exercises\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_1\obj\Debug\net6.0\ref\Task_1.dll

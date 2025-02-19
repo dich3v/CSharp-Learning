@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8+kiXq9jRh67eSMHOU/005FL1LLCAm8A2OVzZHfYcJ7O/k43JJjVreMgM7WLT/yBtKPyB6Qm0MjGYAnVNx2WA==",
+  "success": true,
+  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task_EggsGame\\Task_EggsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

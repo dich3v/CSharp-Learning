@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2PVYm0Rbv2SZmqQV46nbhqfVZBVHuk622GhZRMpk9gg7EMUGWurcO7djDyENNy0Hzotsq9qCGWTY0vQS6TuYg==",
+  "success": true,
+  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task_LetterCombinations\\Task_LetterCombinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

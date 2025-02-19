@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_PetsFood\bin\Debug\net6.0\Task_PetsFood.exe
+C:\Softuni exercises\CS Exercises\Task_PetsFood\bin\Debug\net6.0\Task_PetsFood.deps.json
+C:\Softuni exercises\CS Exercises\Task_PetsFood\bin\Debug\net6.0\Task_PetsFood.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_PetsFood\bin\Debug\net6.0\Task_PetsFood.dll
+C:\Softuni exercises\CS Exercises\Task_PetsFood\bin\Debug\net6.0\Task_PetsFood.pdb
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.dll
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\refint\Task_PetsFood.dll
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.pdb
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\Task_PetsFood.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_PetsFood\obj\Debug\net6.0\ref\Task_PetsFood.dll
