@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Clever_Lilly", "Task_C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Actor_Nominee_Calculator", "Task_Actor_Nominee_Calculator\Task_Actor_Nominee_Calculator.csproj", "{7DA3DCD8-9606-4F40-9C14-717AAAA9ACD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Password_Check", "ConsoleApp1\Task_Password_Check.csproj", "{1FC0BEF0-FF24-4DFA-A765-924355064E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC0BEF0-FF24-4DFA-A765-924355064E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC0BEF0-FF24-4DFA-A765-924355064E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC0BEF0-FF24-4DFA-A765-924355064E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC0BEF0-FF24-4DFA-A765-924355064E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

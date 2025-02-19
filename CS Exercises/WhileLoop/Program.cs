@@ -22,7 +22,7 @@ namespace WhileLoop
                 divideByFour += num % 4 == 0 ? 1 : 0;
 
                 count++;
-            }                        
+            }
             Console.WriteLine($"{(divideByTwo / n) * 100:f2}%");
             Console.WriteLine($"{(divideByThree / n) * 100:f2}%");
             Console.WriteLine($"{(divideByFour / n) * 100:f2}%");

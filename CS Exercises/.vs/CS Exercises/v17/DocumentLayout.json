@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}|WhileLoop\\WhileLoop.csproj|c:\\softuni exercises\\cs exercises\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E0D3A42-46B0-4EAE-9BCD-B4767939669C}|WhileLoop\\WhileLoop.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FC0BEF0-FF24-4DFA-A765-924355064E27}|ConsoleApp1\\Task_Password_Check.csproj|c:\\softuni exercises\\cs exercises\\task_password_check\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0BEF0-FF24-4DFA-A765-924355064E27}|ConsoleApp1\\Task_Password_Check.csproj|solutionrelative:task_password_check\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\WhileLoop\\Program.cs",
-              "RelativeDocumentMoniker": "WhileLoop\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\WhileLoop\\Program.cs",
-              "RelativeToolTip": "WhileLoop\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA7AAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Password_Check\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Password_Check\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Password_Check\\Program.cs",
+              "RelativeToolTip": "Task_Password_Check\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:19:08.557Z",
+              "WhenOpened": "2025-02-17T12:08:52.213Z",
               "EditorCaption": ""
             }
           ]
