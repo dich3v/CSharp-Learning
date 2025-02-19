@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4302E938-DA63-4C90-923B-9AE0AF76BA70}|Task_Student_Grades\\Task_Student_Grades.csproj|c:\\softuni exercises\\cs exercises\\task_student_grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4302E938-DA63-4C90-923B-9AE0AF76BA70}|Task_Student_Grades\\Task_Student_Grades.csproj|solutionrelative:task_student_grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}|Task_Increasing_Amount\\Task_Increasing_Amount.csproj|c:\\softuni exercises\\cs exercises\\task_increasing_amount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}|Task_Increasing_Amount\\Task_Increasing_Amount.csproj|solutionrelative:task_increasing_amount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Student_Grades\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Student_Grades\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Student_Grades\\Program.cs",
+              "RelativeToolTip": "Task_Student_Grades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:37:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Increasing_Amount\\Program.cs",
               "RelativeDocumentMoniker": "Task_Increasing_Amount\\Program.cs",

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoop", "WhileLoop\Whil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Password_Check", "ConsoleApp1\Task_Password_Check.csproj", "{1FC0BEF0-FF24-4DFA-A765-924355064E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Increasing_Amount", "Task_Increasing_Amount\Task_Increasing_Amount.csproj", "{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Increasing_Amount", "Task_Increasing_Amount\Task_Increasing_Amount.csproj", "{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Student_Grades", "Task_Student_Grades\Task_Student_Grades.csproj", "{4302E938-DA63-4C90-923B-9AE0AF76BA70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CFDC2E6-CD89-4291-AD56-98EF5955FCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4302E938-DA63-4C90-923B-9AE0AF76BA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4302E938-DA63-4C90-923B-9AE0AF76BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4302E938-DA63-4C90-923B-9AE0AF76BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4302E938-DA63-4C90-923B-9AE0AF76BA70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
