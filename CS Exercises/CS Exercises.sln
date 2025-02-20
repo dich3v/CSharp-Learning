@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Increasing_Amount", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Student_Grades", "Task_Student_Grades\Task_Student_Grades.csproj", "{4302E938-DA63-4C90-923B-9AE0AF76BA70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{CA84835F-CCAF-4851-A283-4B3E114187B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "Task_1\Task_1.csproj", "{CA84835F-CCAF-4851-A283-4B3E114187B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Trip_Calculation", "Task_Trip_Calculation\Task_Trip_Calculation.csproj", "{98BA08F1-77B1-4835-9779-B2A5F920B6A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{CA84835F-CCAF-4851-A283-4B3E114187B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA84835F-CCAF-4851-A283-4B3E114187B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA84835F-CCAF-4851-A283-4B3E114187B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BA08F1-77B1-4835-9779-B2A5F920B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BA08F1-77B1-4835-9779-B2A5F920B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BA08F1-77B1-4835-9779-B2A5F920B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BA08F1-77B1-4835-9779-B2A5F920B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

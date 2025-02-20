@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA84835F-CCAF-4851-A283-4B3E114187B9}|Task_1\\Task_1.csproj|c:\\softuni exercises\\cs exercises\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA84835F-CCAF-4851-A283-4B3E114187B9}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98BA08F1-77B1-4835-9779-B2A5F920B6A6}|Task_Trip_Calculation\\Task_Trip_Calculation.csproj|c:\\softuni exercises\\cs exercises\\task_trip_calculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BA08F1-77B1-4835-9779-B2A5F920B6A6}|Task_Trip_Calculation\\Task_Trip_Calculation.csproj|solutionrelative:task_trip_calculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_1\\Program.cs",
-              "RelativeDocumentMoniker": "Task_1\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_1\\Program.cs",
-              "RelativeToolTip": "Task_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Trip_Calculation\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Trip_Calculation\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Trip_Calculation\\Program.cs",
+              "RelativeToolTip": "Task_Trip_Calculation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:32:56.577Z",
+              "WhenOpened": "2025-02-20T12:03:31.412Z",
               "EditorCaption": ""
             }
           ]
