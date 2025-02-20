@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13D95A77-B322-40EB-8A79-DD07EBC1D488}|Task_Cake_Calculator\\Task_Cake_Calculator.csproj|c:\\softuni exercises\\cs exercises\\task_cake_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D95A77-B322-40EB-8A79-DD07EBC1D488}|Task_Cake_Calculator\\Task_Cake_Calculator.csproj|solutionrelative:task_cake_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7622A8B9-60C3-4F20-908B-FDB56B32BF41}|Task_Steps_Calculator\\Task_Steps_Calculator.csproj|c:\\softuni exercises\\cs exercises\\task_steps_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7622A8B9-60C3-4F20-908B-FDB56B32BF41}|Task_Steps_Calculator\\Task_Steps_Calculator.csproj|solutionrelative:task_steps_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Cake_Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Cake_Calculator\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Cake_Calculator\\Program.cs",
+              "RelativeToolTip": "Task_Cake_Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:07:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Steps_Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Task_Steps_Calculator\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Steps_Calculator\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Trip_Calculation\\Program.cs",
               "RelativeDocumentMoniker": "Task_Trip_Calculation\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Task_Trip_Calculation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:03:31.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:03:31.412Z"
             }
           ]
         }

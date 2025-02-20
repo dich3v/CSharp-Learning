@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_Trip_Calculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8688f1502d006ea8e1be81c573cf91f32c2c0f87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d57e79caacc0780a4a0e4e52598b5b12b0e8ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_Trip_Calculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_Trip_Calculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
