@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_Clever_Lilly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1308819e08192aba6f74ee86523c3e411757eb62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8688f1502d006ea8e1be81c573cf91f32c2c0f87")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_Clever_Lilly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_Clever_Lilly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
