@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wikH1rAAksu9CGQbZvKiTBeiG3Fu4a8YBKc/AsPmJtEq2Ja48eT3UC5dYGGWAoiWmPUniWgxQ18ZKazxuQj8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfDigits\\Task_SumOfDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
