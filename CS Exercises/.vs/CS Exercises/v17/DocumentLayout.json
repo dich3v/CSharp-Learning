@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F365F92-62C4-4A70-8052-0C63C18DDA6D}|Task_Finding_Magic_Number\\Task_Finding_Magic_Number.csproj|c:\\softuni exercises\\cs exercises\\task_finding_magic_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F365F92-62C4-4A70-8052-0C63C18DDA6D}|Task_Finding_Magic_Number\\Task_Finding_Magic_Number.csproj|solutionrelative:task_finding_magic_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}|Task_SumOfDigits\\Task_SumOfDigits.csproj|c:\\softuni exercises\\cs exercises\\task_sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}|Task_SumOfDigits\\Task_SumOfDigits.csproj|solutionrelative:task_sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Finding_Magic_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Finding_Magic_Number\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Finding_Magic_Number\\Program.cs",
+              "RelativeToolTip": "Task_Finding_Magic_Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:28:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfDigits\\Program.cs",
               "RelativeDocumentMoniker": "Task_SumOfDigits\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfDigits\\Program.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Destinations\\Program.cs",
               "RelativeDocumentMoniker": "Task_Destinations\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Task_Destinations\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:23:23.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T16:23:23.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Building\\Program.cs",
               "RelativeDocumentMoniker": "Task_Building\\Program.cs",

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Building", "Task_Build
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Destinations", "Task_Destinations\Task_Destinations.csproj", "{D22B6D7A-3111-45E7-9475-F3FDEE775773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_SumOfDigits", "Task_SumOfDigits\Task_SumOfDigits.csproj", "{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_SumOfDigits", "Task_SumOfDigits\Task_SumOfDigits.csproj", "{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Finding_Magic_Number", "Task_Finding_Magic_Number\Task_Finding_Magic_Number.csproj", "{3F365F92-62C4-4A70-8052-0C63C18DDA6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F365F92-62C4-4A70-8052-0C63C18DDA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F365F92-62C4-4A70-8052-0C63C18DDA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F365F92-62C4-4A70-8052-0C63C18DDA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F365F92-62C4-4A70-8052-0C63C18DDA6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
