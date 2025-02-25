@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{951728D2-F5AF-49DD-AD17-EAA78F76299B}|Task_SumOfPrimeAndNonPrimeNumbers\\Task_SumOfPrimeAndNonPrimeNumbers.csproj|c:\\softuni exercises\\cs exercises\\task_sumofprimeandnonprimenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951728D2-F5AF-49DD-AD17-EAA78F76299B}|Task_SumOfPrimeAndNonPrimeNumbers\\Task_SumOfPrimeAndNonPrimeNumbers.csproj|solutionrelative:task_sumofprimeandnonprimenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45908F2D-A304-48F8-88DF-464A93CEBF53}|Task_EvenOddsSum\\Task_EvenOddsSum.csproj|c:\\softuni exercises\\cs exercises\\task_evenoddssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45908F2D-A304-48F8-88DF-464A93CEBF53}|Task_EvenOddsSum\\Task_EvenOddsSum.csproj|solutionrelative:task_evenoddssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
+              "RelativeToolTip": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:09:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
               "RelativeDocumentMoniker": "Task_EvenOddsSum\\Program.cs",
