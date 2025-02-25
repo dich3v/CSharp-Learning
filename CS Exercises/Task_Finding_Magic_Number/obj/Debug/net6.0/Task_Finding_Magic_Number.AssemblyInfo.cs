@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_Finding_Magic_Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e9eed3ebf65c52f0e184a2971f426a50833a8c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e8b7edeb6a55fa3cb111f59516bb72cdd66c4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_Finding_Magic_Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_Finding_Magic_Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

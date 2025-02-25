@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F365F92-62C4-4A70-8052-0C63C18DDA6D}|Task_Finding_Magic_Number\\Task_Finding_Magic_Number.csproj|c:\\softuni exercises\\cs exercises\\task_finding_magic_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F365F92-62C4-4A70-8052-0C63C18DDA6D}|Task_Finding_Magic_Number\\Task_Finding_Magic_Number.csproj|solutionrelative:task_finding_magic_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}|Task_SumOfDigits\\Task_SumOfDigits.csproj|c:\\softuni exercises\\cs exercises\\task_sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5226F9-1C1B-41E7-ACA0-57A54D68D55E}|Task_SumOfDigits\\Task_SumOfDigits.csproj|solutionrelative:task_sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22B6D7A-3111-45E7-9475-F3FDEE775773}|Task_Destinations\\Task_Destinations.csproj|c:\\softuni exercises\\cs exercises\\task_destinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22B6D7A-3111-45E7-9475-F3FDEE775773}|Task_Destinations\\Task_Destinations.csproj|solutionrelative:task_destinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15AAF0AE-0E0F-4D68-B3BC-7000B3438CD2}|Task_Building\\Task_Building.csproj|c:\\softuni exercises\\cs exercises\\task_building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15AAF0AE-0E0F-4D68-B3BC-7000B3438CD2}|Task_Building\\Task_Building.csproj|solutionrelative:task_building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45908F2D-A304-48F8-88DF-464A93CEBF53}|Task_EvenOddsSum\\Task_EvenOddsSum.csproj|c:\\softuni exercises\\cs exercises\\task_evenoddssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45908F2D-A304-48F8-88DF-464A93CEBF53}|Task_EvenOddsSum\\Task_EvenOddsSum.csproj|solutionrelative:task_evenoddssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,51 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Finding_Magic_Number\\Program.cs",
-              "RelativeDocumentMoniker": "Task_Finding_Magic_Number\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Finding_Magic_Number\\Program.cs",
-              "RelativeToolTip": "Task_Finding_Magic_Number\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
+              "RelativeDocumentMoniker": "Task_EvenOddsSum\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
+              "RelativeToolTip": "Task_EvenOddsSum\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:28:44.739Z",
+              "WhenOpened": "2025-02-24T10:32:42.102Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfDigits\\Program.cs",
-              "RelativeDocumentMoniker": "Task_SumOfDigits\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfDigits\\Program.cs",
-              "RelativeToolTip": "Task_SumOfDigits\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:25:32.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Destinations\\Program.cs",
-              "RelativeDocumentMoniker": "Task_Destinations\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Destinations\\Program.cs",
-              "RelativeToolTip": "Task_Destinations\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:23:23.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Building\\Program.cs",
-              "RelativeDocumentMoniker": "Task_Building\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Building\\Program.cs",
-              "RelativeToolTip": "Task_Building\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:26:45.96Z"
             }
           ]
         }

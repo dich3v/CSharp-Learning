@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\bin\Debug\net6.0\Task_EvenOddsSum.exe
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\bin\Debug\net6.0\Task_EvenOddsSum.deps.json
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\bin\Debug\net6.0\Task_EvenOddsSum.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\bin\Debug\net6.0\Task_EvenOddsSum.dll
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\bin\Debug\net6.0\Task_EvenOddsSum.pdb
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.dll
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\refint\Task_EvenOddsSum.dll
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.pdb
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\Task_EvenOddsSum.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_EvenOddsSum\obj\Debug\net6.0\ref\Task_EvenOddsSum.dll
