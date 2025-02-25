@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93487C3F-9967-4AE0-A499-2E8DCA3CFF4B}|Task_CinemaTicketingSystem\\Task_CinemaTicketingSystem.csproj|c:\\softuni exercises\\cs exercises\\task_cinematicketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93487C3F-9967-4AE0-A499-2E8DCA3CFF4B}|Task_CinemaTicketingSystem\\Task_CinemaTicketingSystem.csproj|solutionrelative:task_cinematicketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36F48715-B3E0-4FBE-A85E-D5B0462646D2}|Task_Special_Numbers\\Task_Special_Numbers.csproj|c:\\softuni exercises\\cs exercises\\task_special_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36F48715-B3E0-4FBE-A85E-D5B0462646D2}|Task_Special_Numbers\\Task_Special_Numbers.csproj|solutionrelative:task_special_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CinemaTicketingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Task_CinemaTicketingSystem\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CinemaTicketingSystem\\Program.cs",
+              "RelativeToolTip": "Task_CinemaTicketingSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:19:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Special_Numbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_Special_Numbers\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Special_Numbers\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PresentationsGrades\\Program.cs",
               "RelativeDocumentMoniker": "Task_PresentationsGrades\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Task_PresentationsGrades\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:14:08.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T15:14:08.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
               "RelativeDocumentMoniker": "Task_EvenOddsSum\\Program.cs",

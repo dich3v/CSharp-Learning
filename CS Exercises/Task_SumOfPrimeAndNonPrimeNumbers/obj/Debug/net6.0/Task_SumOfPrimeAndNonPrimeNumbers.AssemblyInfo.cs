@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_SumOfPrimeAndNonPrimeNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c95aee598b93375f43d03371071aa50cab286b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086d21e620177ac0555c37a96435f6a62f27163e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_SumOfPrimeAndNonPrimeNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_SumOfPrimeAndNonPrimeNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
