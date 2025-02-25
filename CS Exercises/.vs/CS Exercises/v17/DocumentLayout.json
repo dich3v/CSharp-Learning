@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36F48715-B3E0-4FBE-A85E-D5B0462646D2}|Task_Special_Numbers\\Task_Special_Numbers.csproj|c:\\softuni exercises\\cs exercises\\task_special_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F48715-B3E0-4FBE-A85E-D5B0462646D2}|Task_Special_Numbers\\Task_Special_Numbers.csproj|solutionrelative:task_special_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3547CCF-074F-4517-84FC-3C2557076C1E}|Task_PresentationsGrades\\Task_PresentationsGrades.csproj|c:\\softuni exercises\\cs exercises\\task_presentationsgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3547CCF-074F-4517-84FC-3C2557076C1E}|Task_PresentationsGrades\\Task_PresentationsGrades.csproj|solutionrelative:task_presentationsgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Special_Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Special_Numbers\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Special_Numbers\\Program.cs",
+              "RelativeToolTip": "Task_Special_Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:17:28.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PresentationsGrades\\Program.cs",
               "RelativeDocumentMoniker": "Task_PresentationsGrades\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_PresentationsGrades\\Program.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:09:50.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T15:09:50.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
               "RelativeDocumentMoniker": "Task_EvenOddsSum\\Program.cs",
