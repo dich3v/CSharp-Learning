@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3547CCF-074F-4517-84FC-3C2557076C1E}|Task_PresentationsGrades\\Task_PresentationsGrades.csproj|c:\\softuni exercises\\cs exercises\\task_presentationsgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3547CCF-074F-4517-84FC-3C2557076C1E}|Task_PresentationsGrades\\Task_PresentationsGrades.csproj|solutionrelative:task_presentationsgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{951728D2-F5AF-49DD-AD17-EAA78F76299B}|Task_SumOfPrimeAndNonPrimeNumbers\\Task_SumOfPrimeAndNonPrimeNumbers.csproj|c:\\softuni exercises\\cs exercises\\task_sumofprimeandnonprimenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{951728D2-F5AF-49DD-AD17-EAA78F76299B}|Task_SumOfPrimeAndNonPrimeNumbers\\Task_SumOfPrimeAndNonPrimeNumbers.csproj|solutionrelative:task_sumofprimeandnonprimenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PresentationsGrades\\Program.cs",
+              "RelativeDocumentMoniker": "Task_PresentationsGrades\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_PresentationsGrades\\Program.cs",
+              "RelativeToolTip": "Task_PresentationsGrades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:14:08.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfPrimeAndNonPrimeNumbers\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EvenOddsSum\\Program.cs",
               "RelativeDocumentMoniker": "Task_EvenOddsSum\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Task_EvenOddsSum\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:32:42.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T10:32:42.102Z"
             }
           ]
         }

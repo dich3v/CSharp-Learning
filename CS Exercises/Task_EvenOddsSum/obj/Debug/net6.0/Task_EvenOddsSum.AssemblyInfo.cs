@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_EvenOddsSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84de9401a9d46a2212c3e37d9841e3ff931b6360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3802a414841ff87f5b617adeb63ddc866279fd02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_EvenOddsSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_EvenOddsSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
