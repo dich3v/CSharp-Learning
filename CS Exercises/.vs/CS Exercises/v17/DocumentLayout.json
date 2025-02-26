@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB7F328E-60CF-4968-8157-60E445873174}|Task_FindingValidNumbers\\Task_FindingValidNumbers.csproj|c:\\softuni exercises\\cs exercises\\task_findingvalidnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7F328E-60CF-4968-8157-60E445873174}|Task_FindingValidNumbers\\Task_FindingValidNumbers.csproj|solutionrelative:task_findingvalidnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{572F19FD-FAD1-4780-B9BC-7384583D62EE}|Task_EggsGame\\Task_EggsGame.csproj|c:\\softuni exercises\\cs exercises\\task_eggsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572F19FD-FAD1-4780-B9BC-7384583D62EE}|Task_EggsGame\\Task_EggsGame.csproj|solutionrelative:task_eggsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindingValidNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Task_FindingValidNumbers\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindingValidNumbers\\Program.cs",
+              "RelativeToolTip": "Task_FindingValidNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:22:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EggsGame\\Program.cs",
               "RelativeDocumentMoniker": "Task_EggsGame\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_EggsGame\\Program.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
               "RelativeDocumentMoniker": "Task_BudgetForHoliday\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Task_BudgetForHoliday\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:15:39.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T14:15:39.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PetsFood\\Program.cs",
               "RelativeDocumentMoniker": "Task_PetsFood\\Program.cs",
