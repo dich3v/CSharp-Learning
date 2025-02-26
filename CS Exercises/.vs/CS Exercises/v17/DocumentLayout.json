@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80B99813-7D65-4F94-B9AE-F73DB6252174}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|c:\\softuni exercises\\cs exercises\\task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B99813-7D65-4F94-B9AE-F73DB6252174}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|solutionrelative:task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C98A1E30-9559-4143-91CE-0E5025DD5BB0}|Task_PetsFood\\Task_PetsFood.csproj|c:\\softuni exercises\\cs exercises\\task_petsfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C98A1E30-9559-4143-91CE-0E5025DD5BB0}|Task_PetsFood\\Task_PetsFood.csproj|solutionrelative:task_petsfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
+              "RelativeDocumentMoniker": "Task_BudgetForHoliday\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
+              "RelativeToolTip": "Task_BudgetForHoliday\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:15:39.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PetsFood\\Program.cs",
               "RelativeDocumentMoniker": "Task_PetsFood\\Program.cs",
