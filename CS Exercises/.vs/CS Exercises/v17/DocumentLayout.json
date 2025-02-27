@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9795EE9C-618B-4821-A135-596975738A26}|Task_GetPrice\\Task_GetPrice.csproj|c:\\softuni exercises\\cs exercises\\task_getprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9795EE9C-618B-4821-A135-596975738A26}|Task_GetPrice\\Task_GetPrice.csproj|solutionrelative:task_getprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7861C361-ED75-41D0-AD8D-69C844C89508}|Task_GetMultipleOfEvenAndOdds\\Task_GetMultipleOfEvenAndOdds.csproj|c:\\softuni exercises\\cs exercises\\task_getmultipleofevenandodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7861C361-ED75-41D0-AD8D-69C844C89508}|Task_GetMultipleOfEvenAndOdds\\Task_GetMultipleOfEvenAndOdds.csproj|solutionrelative:task_getmultipleofevenandodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_GetPrice\\Program.cs",
+              "RelativeDocumentMoniker": "Task_GetPrice\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_GetPrice\\Program.cs",
+              "RelativeToolTip": "Task_GetPrice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:14:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_GetMultipleOfEvenAndOdds\\Program.cs",
               "RelativeDocumentMoniker": "Task_GetMultipleOfEvenAndOdds\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_GetMultipleOfEvenAndOdds\\Program.cs",
               "RelativeToolTip": "Task_GetMultipleOfEvenAndOdds\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wC0AAAAFAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:10:07.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MaxValueComparison\\Program.cs",
               "RelativeDocumentMoniker": "Task_MaxValueComparison\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Task_MaxValueComparison\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T16:07:10.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T16:07:10.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PowerOfNumber\\Program.cs",
               "RelativeDocumentMoniker": "Task_PowerOfNumber\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RepeatingText\\Program.cs",
               "RelativeDocumentMoniker": "Task_RepeatingText\\Program.cs",

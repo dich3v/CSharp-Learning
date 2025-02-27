@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_PowerOfNumber", "Task_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_MaxValueComparison", "Task_MaxValueComparison\Task_MaxValueComparison.csproj", "{A392F708-ED17-4292-A0C5-415C4D9006ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_GetMultipleOfEvenAndOdds", "Task_GetMultipleOfEvenAndOdds\Task_GetMultipleOfEvenAndOdds.csproj", "{7861C361-ED75-41D0-AD8D-69C844C89508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_GetMultipleOfEvenAndOdds", "Task_GetMultipleOfEvenAndOdds\Task_GetMultipleOfEvenAndOdds.csproj", "{7861C361-ED75-41D0-AD8D-69C844C89508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_GetPrice", "Task_GetPrice\Task_GetPrice.csproj", "{9795EE9C-618B-4821-A135-596975738A26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7861C361-ED75-41D0-AD8D-69C844C89508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7861C361-ED75-41D0-AD8D-69C844C89508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7861C361-ED75-41D0-AD8D-69C844C89508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9795EE9C-618B-4821-A135-596975738A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9795EE9C-618B-4821-A135-596975738A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9795EE9C-618B-4821-A135-596975738A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9795EE9C-618B-4821-A135-596975738A26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
