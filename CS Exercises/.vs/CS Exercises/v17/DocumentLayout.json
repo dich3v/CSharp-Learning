@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D8BA85-6CD3-4FBC-BFCF-E90A5D94ED37}|Task_Printing_Triangle\\Task_Printing_Triangle.csproj|c:\\softuni exercises\\cs exercises\\task_printing_triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D8BA85-6CD3-4FBC-BFCF-E90A5D94ED37}|Task_Printing_Triangle\\Task_Printing_Triangle.csproj|solutionrelative:task_printing_triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB7F328E-60CF-4968-8157-60E445873174}|Task_FindingValidNumbers\\Task_FindingValidNumbers.csproj|c:\\softuni exercises\\cs exercises\\task_findingvalidnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB7F328E-60CF-4968-8157-60E445873174}|Task_FindingValidNumbers\\Task_FindingValidNumbers.csproj|solutionrelative:task_findingvalidnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572F19FD-FAD1-4780-B9BC-7384583D62EE}|Task_EggsGame\\Task_EggsGame.csproj|c:\\softuni exercises\\cs exercises\\task_eggsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572F19FD-FAD1-4780-B9BC-7384583D62EE}|Task_EggsGame\\Task_EggsGame.csproj|solutionrelative:task_eggsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80B99813-7D65-4F94-B9AE-F73DB6252174}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|c:\\softuni exercises\\cs exercises\\task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80B99813-7D65-4F94-B9AE-F73DB6252174}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|solutionrelative:task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C98A1E30-9559-4143-91CE-0E5025DD5BB0}|Task_PetsFood\\Task_PetsFood.csproj|c:\\softuni exercises\\cs exercises\\task_petsfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98A1E30-9559-4143-91CE-0E5025DD5BB0}|Task_PetsFood\\Task_PetsFood.csproj|solutionrelative:task_petsfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCAD6007-9850-48AF-9285-5280FF4CEB86}|Task_RepeatingText\\Task_RepeatingText.csproj|c:\\softuni exercises\\cs exercises\\task_repeatingtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAD6007-9850-48AF-9285-5280FF4CEB86}|Task_RepeatingText\\Task_RepeatingText.csproj|solutionrelative:task_repeatingtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,63 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Printing_Triangle\\Program.cs",
-              "RelativeDocumentMoniker": "Task_Printing_Triangle\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Printing_Triangle\\Program.cs",
-              "RelativeToolTip": "Task_Printing_Triangle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RepeatingText\\Program.cs",
+              "RelativeDocumentMoniker": "Task_RepeatingText\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_RepeatingText\\Program.cs",
+              "RelativeToolTip": "Task_RepeatingText\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:24:05.848Z",
+              "WhenOpened": "2025-02-27T15:55:40.51Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindingValidNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "Task_FindingValidNumbers\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindingValidNumbers\\Program.cs",
-              "RelativeToolTip": "Task_FindingValidNumbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:22:16.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_EggsGame\\Program.cs",
-              "RelativeDocumentMoniker": "Task_EggsGame\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_EggsGame\\Program.cs",
-              "RelativeToolTip": "Task_EggsGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:19:25.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
-              "RelativeDocumentMoniker": "Task_BudgetForHoliday\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
-              "RelativeToolTip": "Task_BudgetForHoliday\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:15:39.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_PetsFood\\Program.cs",
-              "RelativeDocumentMoniker": "Task_PetsFood\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_PetsFood\\Program.cs",
-              "RelativeToolTip": "Task_PetsFood\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T06:27:02.704Z"
             }
           ]
         }
