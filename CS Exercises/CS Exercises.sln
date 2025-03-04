@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_PinCodes", "Task_PinCodes\Task_PinCodes.csproj", "{4CE8A330-E53C-46E5-B637-889D6DFD2D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_LetterCombinations", "Task_LetterCombinations\Task_LetterCombinations.csproj", "{15A6F2C5-8207-4F0B-809B-C88528829957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_LetterCombinations", "Task_LetterCombinations\Task_LetterCombinations.csproj", "{15A6F2C5-8207-4F0B-809B-C88528829957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_FindCombinations", "Task_FindCombinations\Task_FindCombinations.csproj", "{BE4C7447-8BD3-42A3-897E-60A044575B60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{15A6F2C5-8207-4F0B-809B-C88528829957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15A6F2C5-8207-4F0B-809B-C88528829957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15A6F2C5-8207-4F0B-809B-C88528829957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4C7447-8BD3-42A3-897E-60A044575B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4C7447-8BD3-42A3-897E-60A044575B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4C7447-8BD3-42A3-897E-60A044575B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4C7447-8BD3-42A3-897E-60A044575B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
