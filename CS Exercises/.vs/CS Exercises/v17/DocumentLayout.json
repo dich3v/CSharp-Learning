@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A33F428-2504-4D1B-871C-7884A77E6941}|Task_FindingFactorial\\Task_FindingFactorial.csproj|c:\\softuni exercises\\cs exercises\\task_findingfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A33F428-2504-4D1B-871C-7884A77E6941}|Task_FindingFactorial\\Task_FindingFactorial.csproj|solutionrelative:task_findingfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B6D6DF7-36A8-4403-913C-0024EED3AF46}|Task_ProductSign\\Task_ProductSign.csproj|c:\\softuni exercises\\cs exercises\\task_productsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B6D6DF7-36A8-4403-913C-0024EED3AF46}|Task_ProductSign\\Task_ProductSign.csproj|solutionrelative:task_productsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindingFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "Task_FindingFactorial\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindingFactorial\\Program.cs",
+              "RelativeToolTip": "Task_FindingFactorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:53:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ProductSign\\Program.cs",
               "RelativeDocumentMoniker": "Task_ProductSign\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ProductSign\\Program.cs",
               "RelativeToolTip": "Task_ProductSign\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:50:49.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ValidPassword\\Program.cs",
               "RelativeDocumentMoniker": "Task_ValidPassword\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Task_ValidPassword\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:00:56.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T07:00:56.63Z"
             }
           ]
         }
