@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_FindingFactorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a936380231b80f76dc610e39201f6b397f817cd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cecf91c9dcf2e507cb54f9da47c7904f4f64f60f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_FindingFactorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_FindingFactorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
