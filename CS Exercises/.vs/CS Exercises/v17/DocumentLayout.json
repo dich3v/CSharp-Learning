@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97FF25CE-47DC-4A31-B651-1A7873B766CF}|Task_SumFactorialsOfEvenDigits\\Task_SumFactorialsOfEvenDigits.csproj|c:\\softuni exercises\\cs exercises\\task_sumfactorialsofevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FF25CE-47DC-4A31-B651-1A7873B766CF}|Task_SumFactorialsOfEvenDigits\\Task_SumFactorialsOfEvenDigits.csproj|solutionrelative:task_sumfactorialsofevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2B1AD1C-4032-4041-AAB8-D076E074D8A0}|Task_ShiftElementsInArray\\Task_ShiftElementsInArray.csproj|c:\\softuni exercises\\cs exercises\\task_shiftelementsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B1AD1C-4032-4041-AAB8-D076E074D8A0}|Task_ShiftElementsInArray\\Task_ShiftElementsInArray.csproj|solutionrelative:task_shiftelementsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumFactorialsOfEvenDigits\\Program.cs",
+              "RelativeDocumentMoniker": "Task_SumFactorialsOfEvenDigits\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumFactorialsOfEvenDigits\\Program.cs",
+              "RelativeToolTip": "Task_SumFactorialsOfEvenDigits\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:58:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ShiftElementsInArray\\Program.cs",
               "RelativeDocumentMoniker": "Task_ShiftElementsInArray\\Program.cs",
