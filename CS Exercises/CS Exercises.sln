@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_ListManipulation", "Task_ListManipulation\Task_ListManipulation.csproj", "{8D4BB5E7-AD41-489E-9EB4-A1142104517C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_ListManipulation", "Task_ListManipulation\Task_ListManipulation.csproj", "{8D4BB5E7-AD41-489E-9EB4-A1142104517C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_FindMaxAndMinNumInArr", "Task_FindMaxAndMinNumInArr\Task_FindMaxAndMinNumInArr.csproj", "{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D4BB5E7-AD41-489E-9EB4-A1142104517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4BB5E7-AD41-489E-9EB4-A1142104517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4BB5E7-AD41-489E-9EB4-A1142104517C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
