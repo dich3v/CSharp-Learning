@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3BFDD90-8F70-414C-A62A-B9531C6896A5}|Task_ReversedArray\\Task_ReversedArray.csproj|c:\\softuni exercises\\cs exercises\\task_reversedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3BFDD90-8F70-414C-A62A-B9531C6896A5}|Task_ReversedArray\\Task_ReversedArray.csproj|solutionrelative:task_reversedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AA12DB3-793E-4892-B9F1-14386F617ABA}|Task_ConvertDigitsToWords\\Task_ConvertDigitsToWords.csproj|c:\\softuni exercises\\cs exercises\\task_convertdigitstowords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AA12DB3-793E-4892-B9F1-14386F617ABA}|Task_ConvertDigitsToWords\\Task_ConvertDigitsToWords.csproj|solutionrelative:task_convertdigitstowords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}|Task_FindMaxAndMinNumInArr\\Task_FindMaxAndMinNumInArr.csproj|c:\\softuni exercises\\cs exercises\\task_findmaxandminnuminarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82F4EA8-BACE-4A07-99FA-E312443C5B4C}|Task_FindMaxAndMinNumInArr\\Task_FindMaxAndMinNumInArr.csproj|solutionrelative:task_findmaxandminnuminarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4BB5E7-AD41-489E-9EB4-A1142104517C}|Task_ListManipulation\\Task_ListManipulation.csproj|c:\\softuni exercises\\cs exercises\\task_listmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D4BB5E7-AD41-489E-9EB4-A1142104517C}|Task_ListManipulation\\Task_ListManipulation.csproj|solutionrelative:task_listmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|c:\\softuni exercises\\cs exercises\\task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|solutionrelative:task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,51 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ReversedArray\\Program.cs",
-              "RelativeDocumentMoniker": "Task_ReversedArray\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ReversedArray\\Program.cs",
-              "RelativeToolTip": "Task_ReversedArray\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "Task_MergingLists\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_MergingLists\\Program.cs",
+              "RelativeToolTip": "Task_MergingLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:54:16.077Z",
+              "WhenOpened": "2025-03-13T12:39:29.478Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ConvertDigitsToWords\\Program.cs",
-              "RelativeDocumentMoniker": "Task_ConvertDigitsToWords\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ConvertDigitsToWords\\Program.cs",
-              "RelativeToolTip": "Task_ConvertDigitsToWords\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:51:28.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindMaxAndMinNumInArr\\Program.cs",
-              "RelativeDocumentMoniker": "Task_FindMaxAndMinNumInArr\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindMaxAndMinNumInArr\\Program.cs",
-              "RelativeToolTip": "Task_FindMaxAndMinNumInArr\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:48:12.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ListManipulation\\Program.cs",
-              "RelativeDocumentMoniker": "Task_ListManipulation\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ListManipulation\\Program.cs",
-              "RelativeToolTip": "Task_ListManipulation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:46:55.693Z"
             }
           ]
         }
