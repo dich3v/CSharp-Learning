@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_MergingLists", "Task_MergingLists\Task_MergingLists.csproj", "{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_FindPrimeNumsAndEvenDigitsSum", "Task_FindPrimeNumsAndEvenDigitsSum\Task_FindPrimeNumsAndEvenDigitsSum.csproj", "{B6612F8E-17D4-410A-907C-051AD0D2CC2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_FindPrimeNumsAndEvenDigitsSum", "Task_FindPrimeNumsAndEvenDigitsSum\Task_FindPrimeNumsAndEvenDigitsSum.csproj", "{B6612F8E-17D4-410A-907C-051AD0D2CC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_SimpleListCommands", "Task_SimpleListCommands\Task_SimpleListCommands.csproj", "{ED2B90BB-A39F-429E-848A-DB5EB72A2454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B6612F8E-17D4-410A-907C-051AD0D2CC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6612F8E-17D4-410A-907C-051AD0D2CC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6612F8E-17D4-410A-907C-051AD0D2CC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2B90BB-A39F-429E-848A-DB5EB72A2454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2B90BB-A39F-429E-848A-DB5EB72A2454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2B90BB-A39F-429E-848A-DB5EB72A2454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2B90BB-A39F-429E-848A-DB5EB72A2454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
