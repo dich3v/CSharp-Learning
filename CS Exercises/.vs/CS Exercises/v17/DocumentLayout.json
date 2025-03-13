@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6612F8E-17D4-410A-907C-051AD0D2CC2D}|Task_FindPrimeNumsAndEvenDigitsSum\\Task_FindPrimeNumsAndEvenDigitsSum.csproj|c:\\softuni exercises\\cs exercises\\task_findprimenumsandevendigitssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6612F8E-17D4-410A-907C-051AD0D2CC2D}|Task_FindPrimeNumsAndEvenDigitsSum\\Task_FindPrimeNumsAndEvenDigitsSum.csproj|solutionrelative:task_findprimenumsandevendigitssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|c:\\softuni exercises\\cs exercises\\task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|solutionrelative:task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
+              "RelativeDocumentMoniker": "Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
+              "RelativeToolTip": "Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:30:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergingLists\\Program.cs",
               "RelativeDocumentMoniker": "Task_MergingLists\\Program.cs",
