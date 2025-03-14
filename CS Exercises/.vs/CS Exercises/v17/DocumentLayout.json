@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99126720-E32C-474C-80C8-F3026991C0A2}|Task_SortAndListProducts\\Task_SortAndListProducts.csproj|c:\\softuni exercises\\cs exercises\\task_sortandlistproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99126720-E32C-474C-80C8-F3026991C0A2}|Task_SortAndListProducts\\Task_SortAndListProducts.csproj|solutionrelative:task_sortandlistproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2B90BB-A39F-429E-848A-DB5EB72A2454}|Task_SimpleListCommands\\Task_SimpleListCommands.csproj|c:\\softuni exercises\\cs exercises\\task_simplelistcommands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2B90BB-A39F-429E-848A-DB5EB72A2454}|Task_SimpleListCommands\\Task_SimpleListCommands.csproj|solutionrelative:task_simplelistcommands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6612F8E-17D4-410A-907C-051AD0D2CC2D}|Task_FindPrimeNumsAndEvenDigitsSum\\Task_FindPrimeNumsAndEvenDigitsSum.csproj|c:\\softuni exercises\\cs exercises\\task_findprimenumsandevendigitssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6612F8E-17D4-410A-907C-051AD0D2CC2D}|Task_FindPrimeNumsAndEvenDigitsSum\\Task_FindPrimeNumsAndEvenDigitsSum.csproj|solutionrelative:task_findprimenumsandevendigitssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|c:\\softuni exercises\\cs exercises\\task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7B6A84-7153-4EB6-B7A8-7DA8DDD94173}|Task_MergingLists\\Task_MergingLists.csproj|solutionrelative:task_merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F4FEBD1-D9A2-45AE-AF75-5864D4A522B4}|Task_CardsGame\\Task_CardsGame.csproj|c:\\softuni exercises\\cs exercises\\task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4FEBD1-D9A2-45AE-AF75-5864D4A522B4}|Task_CardsGame\\Task_CardsGame.csproj|solutionrelative:task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,51 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SortAndListProducts\\Program.cs",
-              "RelativeDocumentMoniker": "Task_SortAndListProducts\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SortAndListProducts\\Program.cs",
-              "RelativeToolTip": "Task_SortAndListProducts\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "Task_CardsGame\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "RelativeToolTip": "Task_CardsGame\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:35:47.997Z",
+              "WhenOpened": "2025-03-14T12:38:48.986Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SimpleListCommands\\Program.cs",
-              "RelativeDocumentMoniker": "Task_SimpleListCommands\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SimpleListCommands\\Program.cs",
-              "RelativeToolTip": "Task_SimpleListCommands\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:33:23.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
-              "RelativeDocumentMoniker": "Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
-              "RelativeToolTip": "Task_FindPrimeNumsAndEvenDigitsSum\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:30:29.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergingLists\\Program.cs",
-              "RelativeDocumentMoniker": "Task_MergingLists\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_MergingLists\\Program.cs",
-              "RelativeToolTip": "Task_MergingLists\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:39:29.478Z"
             }
           ]
         }
