@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F9DD85A-7E16-4C3F-AF10-2744214786B0}|Task_MergeConsecutiveEqualNumbers\\Task_MergeConsecutiveEqualNumbers.csproj|c:\\softuni exercises\\cs exercises\\task_mergeconsecutiveequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9DD85A-7E16-4C3F-AF10-2744214786B0}|Task_MergeConsecutiveEqualNumbers\\Task_MergeConsecutiveEqualNumbers.csproj|solutionrelative:task_mergeconsecutiveequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA6883BF-A5BB-40CC-A566-03C4916ECE66}|Task_RemoveNegativeAndReverseList\\Task_RemoveNegativeAndReverseList.csproj|c:\\softuni exercises\\cs exercises\\task_removenegativeandreverselist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA6883BF-A5BB-40CC-A566-03C4916ECE66}|Task_RemoveNegativeAndReverseList\\Task_RemoveNegativeAndReverseList.csproj|solutionrelative:task_removenegativeandreverselist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergeConsecutiveEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Task_MergeConsecutiveEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_MergeConsecutiveEqualNumbers\\Program.cs",
+              "RelativeToolTip": "Task_MergeConsecutiveEqualNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:29:04.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveNegativeAndReverseList\\Program.cs",
               "RelativeDocumentMoniker": "Task_RemoveNegativeAndReverseList\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveNegativeAndReverseList\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
               "RelativeDocumentMoniker": "Task_CardsGame\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Task_CardsGame\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:38:48.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:38:48.986Z"
             }
           ]
         }
