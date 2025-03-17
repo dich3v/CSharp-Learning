@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F516A09D-B39F-405D-9765-98F081D632C6}|Task_FindLargestElements\\Task_FindLargestElements.csproj|c:\\softuni exercises\\cs exercises\\task_findlargestelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F516A09D-B39F-405D-9765-98F081D632C6}|Task_FindLargestElements\\Task_FindLargestElements.csproj|solutionrelative:task_findlargestelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}|Task_ZigZagLists\\Task_ZigZagLists.csproj|c:\\softuni exercises\\cs exercises\\task_zigzaglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}|Task_ZigZagLists\\Task_ZigZagLists.csproj|solutionrelative:task_zigzaglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,6 +48,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_FindLargestElements\\Program.cs",
+              "RelativeDocumentMoniker": "Task_FindLargestElements\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_FindLargestElements\\Program.cs",
+              "RelativeToolTip": "Task_FindLargestElements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:34:35.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ZigZagLists\\Program.cs",
               "RelativeDocumentMoniker": "Task_ZigZagLists\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ZigZagLists\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
               "RelativeDocumentMoniker": "Task_Bomb\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Task_Bomb\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:33:02.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T16:33:02.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergeConsecutiveEqualNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_MergeConsecutiveEqualNumbers\\Program.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveNegativeAndReverseList\\Program.cs",
               "RelativeDocumentMoniker": "Task_RemoveNegativeAndReverseList\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
               "RelativeDocumentMoniker": "Task_CardsGame\\Program.cs",
