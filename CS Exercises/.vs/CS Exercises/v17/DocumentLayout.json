@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}|Task_ZigZagLists\\Task_ZigZagLists.csproj|c:\\softuni exercises\\cs exercises\\task_zigzaglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}|Task_ZigZagLists\\Task_ZigZagLists.csproj|solutionrelative:task_zigzaglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}|Task_Bomb\\Task_Bomb.csproj|c:\\softuni exercises\\cs exercises\\task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}|Task_Bomb\\Task_Bomb.csproj|solutionrelative:task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ZigZagLists\\Program.cs",
+              "RelativeDocumentMoniker": "Task_ZigZagLists\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ZigZagLists\\Program.cs",
+              "RelativeToolTip": "Task_ZigZagLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:31:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
               "RelativeDocumentMoniker": "Task_Bomb\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MergeConsecutiveEqualNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Task_MergeConsecutiveEqualNumbers\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Task_MergeConsecutiveEqualNumbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:29:04.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T16:29:04.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveNegativeAndReverseList\\Program.cs",
               "RelativeDocumentMoniker": "Task_RemoveNegativeAndReverseList\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
               "RelativeDocumentMoniker": "Task_CardsGame\\Program.cs",
@@ -84,8 +100,7 @@
               "RelativeToolTip": "Task_CardsGame\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:38:48.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:38:48.986Z"
             }
           ]
         }

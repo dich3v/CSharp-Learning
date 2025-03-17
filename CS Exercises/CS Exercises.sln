@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_RemoveNegativeAndRever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_MergeConsecutiveEqualNumbers", "Task_MergeConsecutiveEqualNumbers\Task_MergeConsecutiveEqualNumbers.csproj", "{4F9DD85A-7E16-4C3F-AF10-2744214786B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Bomb", "Task_Bomb\Task_Bomb.csproj", "{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Bomb", "Task_Bomb\Task_Bomb.csproj", "{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_ZigZagLists", "Task_ZigZagLists\Task_ZigZagLists.csproj", "{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B313DC-9D17-402E-8AAF-9186C7D0BC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5120DAF8-EE5F-443F-BBDD-3A75EA7DE10D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
