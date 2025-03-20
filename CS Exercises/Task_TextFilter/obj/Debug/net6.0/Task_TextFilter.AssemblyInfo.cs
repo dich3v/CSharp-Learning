@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_TextFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de20c301763be9971833cd0fd122beafa32dc6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9399fb5b5d46072d9f555f57132d6bd6e3e3da75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_TextFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_TextFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{300481A6-F9F9-4D8B-9287-7608CCCF389D}|Task_ConcatenatedWords\\Task_ConcatenatedWords.csproj|c:\\softuni exercises\\cs exercises\\task_concatenatedwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300481A6-F9F9-4D8B-9287-7608CCCF389D}|Task_ConcatenatedWords\\Task_ConcatenatedWords.csproj|solutionrelative:task_concatenatedwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{184A9A03-E463-4867-AA7C-96F4F391F10A}|Task_WordReversalLoop\\Task_WordReversalLoop.csproj|c:\\softuni exercises\\cs exercises\\task_wordreversalloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184A9A03-E463-4867-AA7C-96F4F391F10A}|Task_WordReversalLoop\\Task_WordReversalLoop.csproj|solutionrelative:task_wordreversalloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeDocumentMoniker": "Task_ConcatenatedWords\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeToolTip": "Task_ConcatenatedWords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:58:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_WordReversalLoop\\Program.cs",
               "RelativeDocumentMoniker": "Task_WordReversalLoop\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_WordReversalLoop\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_TextFilter\\Program.cs",
               "RelativeDocumentMoniker": "Task_TextFilter\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Task_TextFilter\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T09:52:06.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T09:52:06.802Z"
             }
           ]
         }

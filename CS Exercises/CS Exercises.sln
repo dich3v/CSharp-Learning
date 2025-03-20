@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_TextFilter", "Task_TextFilter\Task_TextFilter.csproj", "{DBFB8B6C-D8BF-4981-AEA0-F1DAD67EA8C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_WordReversalLoop", "Task_WordReversalLoop\Task_WordReversalLoop.csproj", "{184A9A03-E463-4867-AA7C-96F4F391F10A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_WordReversalLoop", "Task_WordReversalLoop\Task_WordReversalLoop.csproj", "{184A9A03-E463-4867-AA7C-96F4F391F10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_ConcatenatedWords", "Task_ConcatenatedWords\Task_ConcatenatedWords.csproj", "{300481A6-F9F9-4D8B-9287-7608CCCF389D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{184A9A03-E463-4867-AA7C-96F4F391F10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{184A9A03-E463-4867-AA7C-96F4F391F10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{184A9A03-E463-4867-AA7C-96F4F391F10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300481A6-F9F9-4D8B-9287-7608CCCF389D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300481A6-F9F9-4D8B-9287-7608CCCF389D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300481A6-F9F9-4D8B-9287-7608CCCF389D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300481A6-F9F9-4D8B-9287-7608CCCF389D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
