@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_WordReversalLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9399fb5b5d46072d9f555f57132d6bd6e3e3da75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed33a430d39dcf67efe3bafcd772962750af53c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_WordReversalLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_WordReversalLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
