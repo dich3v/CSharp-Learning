@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_MatchDates", "Task_MatchDates\Task_MatchDates.csproj", "{721F1860-FA6C-4703-8034-336D535A7D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_RemoveWordFromText", "Task_RemoveWordFromText\Task_RemoveWordFromText.csproj", "{F273A167-C2D4-4F27-AA2F-F176239E7709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_RemoveWordFromText", "Task_RemoveWordFromText\Task_RemoveWordFromText.csproj", "{F273A167-C2D4-4F27-AA2F-F176239E7709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_ClassifyCharacters", "Task_ClassifyCharacters\Task_ClassifyCharacters.csproj", "{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F273A167-C2D4-4F27-AA2F-F176239E7709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F273A167-C2D4-4F27-AA2F-F176239E7709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F273A167-C2D4-4F27-AA2F-F176239E7709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
