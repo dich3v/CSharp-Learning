@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_RemoveWordFromText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607dbc37d782a9de764325d2405adc55568abeef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4571e0af5dec2fee654b0c549bbe3cb5373a5f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_RemoveWordFromText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_RemoveWordFromText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

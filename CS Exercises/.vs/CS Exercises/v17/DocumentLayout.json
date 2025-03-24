@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}|Task_ClassifyCharacters\\Task_ClassifyCharacters.csproj|c:\\softuni exercises\\cs exercises\\task_classifycharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656B0ADA-CEE2-4CD6-A117-F4D233A65A5D}|Task_ClassifyCharacters\\Task_ClassifyCharacters.csproj|solutionrelative:task_classifycharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F273A167-C2D4-4F27-AA2F-F176239E7709}|Task_RemoveWordFromText\\Task_RemoveWordFromText.csproj|c:\\softuni exercises\\cs exercises\\task_removewordfromtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F273A167-C2D4-4F27-AA2F-F176239E7709}|Task_RemoveWordFromText\\Task_RemoveWordFromText.csproj|solutionrelative:task_removewordfromtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{721F1860-FA6C-4703-8034-336D535A7D34}|Task_MatchDates\\Task_MatchDates.csproj|c:\\softuni exercises\\cs exercises\\task_matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{721F1860-FA6C-4703-8034-336D535A7D34}|Task_MatchDates\\Task_MatchDates.csproj|solutionrelative:task_matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D30EB89-F5CD-4B2B-A3A0-B1A431B98626}|Task_DuplicatedCharactersCount\\Task_DuplicatedCharactersCount.csproj|c:\\softuni exercises\\cs exercises\\task_duplicatedcharacterscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D30EB89-F5CD-4B2B-A3A0-B1A431B98626}|Task_DuplicatedCharactersCount\\Task_DuplicatedCharactersCount.csproj|solutionrelative:task_duplicatedcharacterscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,39 +28,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ClassifyCharacters\\Program.cs",
-              "RelativeDocumentMoniker": "Task_ClassifyCharacters\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ClassifyCharacters\\Program.cs",
-              "RelativeToolTip": "Task_ClassifyCharacters\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAmAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_DuplicatedCharactersCount\\Program.cs",
+              "RelativeDocumentMoniker": "Task_DuplicatedCharactersCount\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_DuplicatedCharactersCount\\Program.cs",
+              "RelativeToolTip": "Task_DuplicatedCharactersCount\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:18:07.475Z",
+              "WhenOpened": "2025-03-24T07:18:25.689Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveWordFromText\\Program.cs",
-              "RelativeDocumentMoniker": "Task_RemoveWordFromText\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_RemoveWordFromText\\Program.cs",
-              "RelativeToolTip": "Task_RemoveWordFromText\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:16:05.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_MatchDates\\Program.cs",
-              "RelativeDocumentMoniker": "Task_MatchDates\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_MatchDates\\Program.cs",
-              "RelativeToolTip": "Task_MatchDates\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:43:42.485Z"
             }
           ]
         }
