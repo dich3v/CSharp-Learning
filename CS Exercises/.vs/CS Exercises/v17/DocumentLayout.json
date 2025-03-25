@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B582070E-B3F3-41C4-9D34-DFB7ACA2C288}|Task_VehicleRegistrationSystem\\Task_VehicleRegistrationSystem.csproj|c:\\softuni exercises\\cs exercises\\task_vehicleregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B582070E-B3F3-41C4-9D34-DFB7ACA2C288}|Task_VehicleRegistrationSystem\\Task_VehicleRegistrationSystem.csproj|solutionrelative:task_vehicleregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{257C28FE-4AAA-42D7-BB1F-7B7C51F55DBC}|Task_ResourcesQuantity\\Task_ResourcesQuantity.csproj|c:\\softuni exercises\\cs exercises\\task_resourcesquantity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257C28FE-4AAA-42D7-BB1F-7B7C51F55DBC}|Task_ResourcesQuantity\\Task_ResourcesQuantity.csproj|solutionrelative:task_resourcesquantity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,11 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_VehicleRegistrationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Task_VehicleRegistrationSystem\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_VehicleRegistrationSystem\\Program.cs",
+              "RelativeToolTip": "Task_VehicleRegistrationSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:50:48.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ResourcesQuantity\\Program.cs",
               "RelativeDocumentMoniker": "Task_ResourcesQuantity\\Program.cs",
               "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ResourcesQuantity\\Program.cs",
               "RelativeToolTip": "Task_ResourcesQuantity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T17:47:24.116Z",
               "EditorCaption": ""
