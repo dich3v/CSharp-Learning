@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_VehicleRegistrationSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c2e319e15ae947f6a1767d14223f27b049ca2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ccc1242397fb568ef25c61415eccf6becb56c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_VehicleRegistrationSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_VehicleRegistrationSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
