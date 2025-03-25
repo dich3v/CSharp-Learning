@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D30EB89-F5CD-4B2B-A3A0-B1A431B98626}|Task_DuplicatedCharactersCount\\Task_DuplicatedCharactersCount.csproj|c:\\softuni exercises\\cs exercises\\task_duplicatedcharacterscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D30EB89-F5CD-4B2B-A3A0-B1A431B98626}|Task_DuplicatedCharactersCount\\Task_DuplicatedCharactersCount.csproj|solutionrelative:task_duplicatedcharacterscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{257C28FE-4AAA-42D7-BB1F-7B7C51F55DBC}|Task_ResourcesQuantity\\Task_ResourcesQuantity.csproj|c:\\softuni exercises\\cs exercises\\task_resourcesquantity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C28FE-4AAA-42D7-BB1F-7B7C51F55DBC}|Task_ResourcesQuantity\\Task_ResourcesQuantity.csproj|solutionrelative:task_resourcesquantity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_DuplicatedCharactersCount\\Program.cs",
-              "RelativeDocumentMoniker": "Task_DuplicatedCharactersCount\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_DuplicatedCharactersCount\\Program.cs",
-              "RelativeToolTip": "Task_DuplicatedCharactersCount\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwB4AAAAiAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ResourcesQuantity\\Program.cs",
+              "RelativeDocumentMoniker": "Task_ResourcesQuantity\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ResourcesQuantity\\Program.cs",
+              "RelativeToolTip": "Task_ResourcesQuantity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T07:18:25.689Z",
+              "WhenOpened": "2025-03-25T17:47:24.116Z",
               "EditorCaption": ""
             }
           ]

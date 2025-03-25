@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_DuplicatedCharactersCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4571e0af5dec2fee654b0c549bbe3cb5373a5f29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+560afccb3359a9a7b444524bc06c086a41b2ea1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_DuplicatedCharactersCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_DuplicatedCharactersCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
