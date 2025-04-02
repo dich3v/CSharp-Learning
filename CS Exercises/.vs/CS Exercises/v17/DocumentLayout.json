@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{322EA072-3925-4758-B426-D5E28FE2CBFF}|Task_NumbersInRange\\Task_NumbersInRange.csproj|c:\\softuni exercises\\cs exercises\\task_numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322EA072-3925-4758-B426-D5E28FE2CBFF}|Task_NumbersInRange\\Task_NumbersInRange.csproj|solutionrelative:task_numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6E93A5-DBE2-481A-9A37-56B584EC623F}|Task_SumOfValidIntegersWithErrorHandling\\Task_SumOfValidIntegersWithErrorHandling.csproj|c:\\softuni exercises\\cs exercises\\task_sumofvalidintegerswitherrorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6E93A5-DBE2-481A-9A37-56B584EC623F}|Task_SumOfValidIntegersWithErrorHandling\\Task_SumOfValidIntegersWithErrorHandling.csproj|solutionrelative:task_sumofvalidintegerswitherrorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_NumbersInRange\\Program.cs",
-              "RelativeDocumentMoniker": "Task_NumbersInRange\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_NumbersInRange\\Program.cs",
-              "RelativeToolTip": "Task_NumbersInRange\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
+              "RelativeToolTip": "Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:10:55.289Z",
+              "WhenOpened": "2025-04-02T06:24:06.664Z",
               "EditorCaption": ""
             }
           ]
