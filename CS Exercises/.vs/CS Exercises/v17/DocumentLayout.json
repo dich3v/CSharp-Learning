@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6E93A5-DBE2-481A-9A37-56B584EC623F}|Task_SumOfValidIntegersWithErrorHandling\\Task_SumOfValidIntegersWithErrorHandling.csproj|c:\\softuni exercises\\cs exercises\\task_sumofvalidintegerswitherrorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6E93A5-DBE2-481A-9A37-56B584EC623F}|Task_SumOfValidIntegersWithErrorHandling\\Task_SumOfValidIntegersWithErrorHandling.csproj|solutionrelative:task_sumofvalidintegerswitherrorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F753E93E-8BC3-405B-8AB4-0496CF2D8DAA}|Task_Bomb\\Task_Bomb.csproj|c:\\softuni exercises\\cs exercises\\task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F753E93E-8BC3-405B-8AB4-0496CF2D8DAA}|Task_Bomb\\Task_Bomb.csproj|solutionrelative:task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
-              "RelativeDocumentMoniker": "Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
-              "RelativeToolTip": "Task_SumOfValidIntegersWithErrorHandling\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Bomb\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "RelativeToolTip": "Task_Bomb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:24:06.664Z",
+              "WhenOpened": "2025-04-03T03:53:00.141Z",
               "EditorCaption": ""
             }
           ]

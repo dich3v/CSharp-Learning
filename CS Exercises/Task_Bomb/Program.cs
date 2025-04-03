@@ -7,12 +7,17 @@
             List<int> numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
             int[] bombNums = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 
-            int bomb = bombNums[0];
-            int bombPower = bombNums[1];
+            List<int> result = RemoveNumbers(numbers, bombNums);
+            Console.WriteLine(result.Sum());
+        }
+        static List<int> RemoveNumbers(List<int> nums, int[] bombNumbers)
+        {
+            int bomb = bombNumbers[0];
+            int bombPower = bombNumbers[1];
 
-            for (int i = 0; i < numbers.Count; i++)
+            for (int i = 0; i < nums.Count; i++)
             {
-                if (numbers[i] == bomb)
+                if (nums[i] == bomb)
                 {
                     int startIndex = i - bombPower;
                     int endIndex = i + bombPower;
@@ -21,15 +26,15 @@
                     {
                         startIndex = 0;
                     }
-                    if (endIndex >= numbers.Count)
+                    if (endIndex >= nums.Count)
                     {
-                        endIndex = numbers.Count - 1;
+                        endIndex = nums.Count - 1;
                     }
-                    numbers.RemoveRange(startIndex, endIndex - startIndex + 1);
+                    nums.RemoveRange(startIndex, endIndex - startIndex + 1);
                     i = startIndex - 1;
                 }
             }
-            Console.WriteLine(numbers.Sum());
+            return nums;
         }
     }
 }
