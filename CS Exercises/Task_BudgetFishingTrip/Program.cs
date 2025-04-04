@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int budget = int.Parse(Console.ReadLine());
             string season = Console.ReadLine();
@@ -19,6 +19,11 @@
             int winterRent = 2600;
             double rent = 0;
             double discount = 0;
+
+            if (season != "Summer" && season != "Autumn" && season != "Spring" && season != "Winter")
+            {
+                return "Invalid season!";
+            }
 
             if (fishermen <= 6 && fishermen > 0)
             {
