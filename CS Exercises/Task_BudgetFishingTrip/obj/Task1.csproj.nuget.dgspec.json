@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Task1.csproj": {}
+    "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Task1.csproj": {
+    "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Task1.csproj",
+        "projectUniqueName": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Task1.csproj",
+        "projectPath": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task1.csproj",
         "packagesPath": "C:\\Users\\rados\\.nuget\\packages\\",
-        "outputPath": "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\obj\\",
+        "outputPath": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rados\\AppData\\Roaming\\NuGet\\NuGet.Config",

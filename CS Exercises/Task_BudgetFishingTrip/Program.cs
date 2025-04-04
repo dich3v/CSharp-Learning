@@ -1,20 +1,26 @@
 ﻿namespace CS_Exercises
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             int budget = int.Parse(Console.ReadLine());
             string season = Console.ReadLine();
             int fishermen = int.Parse(Console.ReadLine());
+            string result = CalculatingTrip(budget, season, fishermen);
 
+            Console.WriteLine(result);
+        }
+
+        public static string CalculatingTrip(int budget, string season, int fishermen)
+        {
             int springRent = 3000;
             int summerAutumn = 4200;
             int winterRent = 2600;
             double rent = 0;
             double discount = 0;
 
-            if (fishermen <= 6)
+            if (fishermen <= 6 && fishermen > 0)
             {
                 discount = 0.9;
             }
@@ -45,11 +51,11 @@
             double finalSum = budget - rent;
             if (finalSum >= 0)
             {
-                Console.WriteLine($"Yes! You have {finalSum:f2} leva left.");
+                return $"Yes! You have {finalSum:f2} leva left.";
             }
             else
             {
-                Console.WriteLine($"Not enough money! You need {Math.Abs(finalSum):f2} leva.");
+                return $"Not enough money! You need {Math.Abs(finalSum):f2} leva.";
             }
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9n8f5KP2Vf+Dwy8DQQZqOf/xxsrE5BAhJSqWS/m3my1oxLEtBuKSrq6CvM7+R45vuIGZJV/a4nropt4zv3y8A==",
+  "dgSpecHash": "SnzUo8w0I5wqUmgi+q5J9n8HCA815g1RkpEcuchlt2Wuk5GEJr0Lv8x94FATqxoqZJ5JQneH2wqcsVVfQ3EymA==",
   "success": true,
-  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\CS Exercises\\Task1.csproj",
+  "projectFilePath": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task_BudgetFishingTrip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\rados\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
