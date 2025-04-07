@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABA73FE9-7AFF-4438-B825-F6DBF8E9547B}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|c:\\softuni exercises\\cs exercises\\task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA73FE9-7AFF-4438-B825-F6DBF8E9547B}|Task_BudgetForHoliday\\Task_BudgetForHoliday.csproj|solutionrelative:task_budgetforholiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF3D01B-F2D9-4F03-916F-561A4785C084}|Task_Building\\Task_Building.csproj|c:\\softuni exercises\\cs exercises\\task_building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF3D01B-F2D9-4F03-916F-561A4785C084}|Task_Building\\Task_Building.csproj|solutionrelative:task_building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
-              "RelativeDocumentMoniker": "Task_BudgetForHoliday\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetForHoliday\\Program.cs",
-              "RelativeToolTip": "Task_BudgetForHoliday\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Building\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Building\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Building\\Program.cs",
+              "RelativeToolTip": "Task_Building\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T06:06:12.025Z",
+              "WhenOpened": "2025-04-07T10:24:45.395Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_Cake_Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1897c992bb0b9c347deb3f6d0a93e8f114351d60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b4ed60e0d6e5086722ef3b391ec7e2a68695dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_Cake_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_Cake_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

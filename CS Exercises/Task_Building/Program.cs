@@ -2,13 +2,18 @@
 
 namespace Task_Building
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int floorCount = int.Parse(Console.ReadLine());
             int estateCount = int.Parse(Console.ReadLine());
 
+            FloorAndEstateCount(floorCount, estateCount);
+        }
+
+        private static void FloorAndEstateCount(int floorCount, int estateCount)
+        {
             for (int i = floorCount; i > 0; i--)
             {
                 for (int j = 0; j < estateCount; j++)
