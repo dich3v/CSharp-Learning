@@ -9,6 +9,7 @@
             int n = int.Parse(Console.ReadLine());
 
             double finalPoints = startPoints;
+            double pointsNeeded = 1250.5;
 
             for (int i = 0; i < n; i++)
             {
@@ -16,13 +17,13 @@
                 double points = double.Parse(Console.ReadLine());
 
                 finalPoints += (name.Length * points) / 2;
-                if (finalPoints > 1250.5)
+                if (finalPoints > pointsNeeded)
                 {
                     Console.WriteLine($"Congratulations, {actorName} got a nominee for leading role with {finalPoints:f1}!");
                     return;
                 }
             }
-            Console.WriteLine($"Sorry, {actorName} you need {1250.5 - finalPoints:f1} more!");
+            Console.WriteLine($"Sorry, {actorName} you need {pointsNeeded - finalPoints:f1} more!");
         }
     }
 }

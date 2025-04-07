@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Cake_Calculator", "Task_Cake_Calculator\Task_Cake_Calculator.csproj", "{93576331-B1FE-4C0D-9B83-4C3FB7F52904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_Actor_Nominee_Calculator", "Task_Actor_Nominee_Calculator\Task_Actor_Nominee_Calculator.csproj", "{F1D6D105-290D-4D8C-B04C-F5FCB9CA9D33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93576331-B1FE-4C0D-9B83-4C3FB7F52904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93576331-B1FE-4C0D-9B83-4C3FB7F52904}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93576331-B1FE-4C0D-9B83-4C3FB7F52904}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93576331-B1FE-4C0D-9B83-4C3FB7F52904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D6D105-290D-4D8C-B04C-F5FCB9CA9D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D6D105-290D-4D8C-B04C-F5FCB9CA9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D6D105-290D-4D8C-B04C-F5FCB9CA9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D6D105-290D-4D8C-B04C-F5FCB9CA9D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
