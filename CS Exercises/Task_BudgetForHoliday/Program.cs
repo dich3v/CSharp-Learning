@@ -1,14 +1,19 @@
 ﻿namespace Task_BudgetForHoliday
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             double budget = double.Parse(Console.ReadLine());
             int nights = int.Parse(Console.ReadLine());
             double pricePerNight = double.Parse(Console.ReadLine());
             double percent = double.Parse(Console.ReadLine());
 
+            pricePerNight = BudgetCalc(budget, nights, pricePerNight, percent);
+        }
+
+        public static double BudgetCalc(double budget, int nights, double pricePerNight, double percent)
+        {
             if (nights > 7)
             {
                 pricePerNight *= 0.95;
@@ -23,6 +28,8 @@
             {
                 Console.WriteLine($"{moneyNeeded - budget:f2} leva needed.");
             }
+
+            return pricePerNight;
         }
     }
 }
