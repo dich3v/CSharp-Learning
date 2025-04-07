@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_BudgetForHoliday")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9716cc76214e96887d259756f294b66294db9b44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38385431210ae3c11b674967b56871be185cbcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_BudgetForHoliday")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_BudgetForHoliday")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

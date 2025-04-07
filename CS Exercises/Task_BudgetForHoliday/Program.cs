@@ -9,10 +9,11 @@
             double pricePerNight = double.Parse(Console.ReadLine());
             double percent = double.Parse(Console.ReadLine());
 
-            pricePerNight = BudgetCalc(budget, nights, pricePerNight, percent);
+            string result = BudgetCalc(budget, nights, pricePerNight, percent);
+            Console.WriteLine(result);
         }
 
-        public static double BudgetCalc(double budget, int nights, double pricePerNight, double percent)
+        public static string BudgetCalc(double budget, int nights, double pricePerNight, double percent)
         {
             if (nights > 7)
             {
@@ -22,14 +23,12 @@
 
             if (moneyNeeded <= budget)
             {
-                Console.WriteLine($"Ivanovi will be left with {budget - moneyNeeded:f2} leva after vacation.");
+                return $"Ivanovi will be left with {budget - moneyNeeded:f2} leva after vacation.";
             }
             else
             {
-                Console.WriteLine($"{moneyNeeded - budget:f2} leva needed.");
+                return $"{moneyNeeded - budget:f2} leva needed.";
             }
-
-            return pricePerNight;
         }
     }
 }
