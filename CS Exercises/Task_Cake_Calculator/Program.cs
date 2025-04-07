@@ -7,6 +7,10 @@
             int length = int.Parse(Console.ReadLine());
             int width = int.Parse(Console.ReadLine());
 
+            CakeCalculator(length, width);
+        }
+        private static void CakeCalculator(int length, int width)
+        {
             int size = length * width;
 
             while (size > 0)

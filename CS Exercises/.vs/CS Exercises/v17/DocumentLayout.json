@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7867CA48-C2F2-4061-B2B1-E264AEF4BB79}|Task_CalcAverageOfMiddleElementsInArr\\Task_CalcAverageOfMiddleElementsInArr.csproj|c:\\softuni exercises\\cs exercises\\task_calcaverageofmiddleelementsinarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7867CA48-C2F2-4061-B2B1-E264AEF4BB79}|Task_CalcAverageOfMiddleElementsInArr\\Task_CalcAverageOfMiddleElementsInArr.csproj|solutionrelative:task_calcaverageofmiddleelementsinarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93576331-B1FE-4C0D-9B83-4C3FB7F52904}|Task_Cake_Calculator\\Task_Cake_Calculator.csproj|c:\\softuni exercises\\cs exercises\\task_cake_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93576331-B1FE-4C0D-9B83-4C3FB7F52904}|Task_Cake_Calculator\\Task_Cake_Calculator.csproj|solutionrelative:task_cake_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "RelativeDocumentMoniker": "Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "RelativeToolTip": "Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Cake_Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Cake_Calculator\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Cake_Calculator\\Program.cs",
+              "RelativeToolTip": "Task_Cake_Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T10:30:44.572Z",
+              "WhenOpened": "2025-04-07T11:16:12.97Z",
               "EditorCaption": ""
             }
           ]
