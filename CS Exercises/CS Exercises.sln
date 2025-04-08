@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_CardsGame", "Task_CardsGame\Task_CardsGame.csproj", "{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_ConcatenatedWords", "Task_ConcatenatedWords\Task_ConcatenatedWords.csproj", "{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

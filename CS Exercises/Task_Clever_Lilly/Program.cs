@@ -7,7 +7,11 @@
             int age = int.Parse(Console.ReadLine());
             double washPrice = double.Parse(Console.ReadLine());
             int toyPrice = int.Parse(Console.ReadLine());
+            BudgetCalculation(age, washPrice, toyPrice);
+        }
 
+        private static void BudgetCalculation(int age, double washPrice, int toyPrice)
+        {
             int toyCount = 0;
             int moneyCount = 0;
             int yearsCount = 0;

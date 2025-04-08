@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_ConcatenatedWords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed33a430d39dcf67efe3bafcd772962750af53c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5916034f89d18a5fede603636ecf09e282d86dc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_ConcatenatedWords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_ConcatenatedWords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

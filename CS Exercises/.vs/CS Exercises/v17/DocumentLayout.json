@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Softuni exercises\\CS Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}|Task_CardsGame\\Task_CardsGame.csproj|c:\\softuni exercises\\cs exercises\\task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7904BEEE-8288-4154-8C0E-3117D7EEC6F4}|Task_CardsGame\\Task_CardsGame.csproj|solutionrelative:task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}|Task_ConcatenatedWords\\Task_ConcatenatedWords.csproj|c:\\softuni exercises\\cs exercises\\task_concatenatedwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66199C38-5238-4DF9-A9B2-D1324C3AB2AA}|Task_ConcatenatedWords\\Task_ConcatenatedWords.csproj|solutionrelative:task_concatenatedwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "RelativeDocumentMoniker": "Task_CardsGame\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "RelativeToolTip": "Task_CardsGame\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeDocumentMoniker": "Task_ConcatenatedWords\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeToolTip": "Task_ConcatenatedWords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T05:54:06.404Z",
+              "WhenOpened": "2025-04-08T07:23:41.653Z",
               "EditorCaption": ""
             }
           ]

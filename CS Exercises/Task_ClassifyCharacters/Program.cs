@@ -8,6 +8,11 @@ namespace Task_ClassifyCharacters
         {
             string text = Console.ReadLine();
 
+            ClassifyChars(text);
+        }
+
+        private static void ClassifyChars(string text)
+        {
             char[] symbols = text.ToCharArray();
 
             StringBuilder digits = new StringBuilder();

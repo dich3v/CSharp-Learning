@@ -2,12 +2,18 @@
 
 namespace Task_ConcatenatedWords
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string[] input = Console.ReadLine().Split(" ");
 
+            string result = ConcatenateString(input).ToString();
+
+            Console.WriteLine(result);
+        }
+        public static StringBuilder ConcatenateString(string[] input)
+        {
             StringBuilder concantenatedString = new StringBuilder();
 
             foreach (string word in input)
@@ -17,7 +23,7 @@ namespace Task_ConcatenatedWords
                     concantenatedString.Append(word);
                 }
             }
-            Console.WriteLine(concantenatedString);
+            return concantenatedString;
         }
     }
 }
