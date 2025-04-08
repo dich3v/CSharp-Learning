@@ -1,12 +1,18 @@
 ﻿namespace Task_CardsGame
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> firstPlayer = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
             List<int> secondPlayer = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
 
+            string result = CardGame(firstPlayer, secondPlayer);
+            Console.WriteLine(result);
+        }
+
+        public static string CardGame(List<int> firstPlayer, List<int> secondPlayer)
+        {
             while (firstPlayer.Count > 0 && secondPlayer.Count > 0)
             {
                 int firstPlayerCard = firstPlayer[0];
@@ -27,7 +33,7 @@
             }
             string winner = firstPlayer.Count > secondPlayer.Count ? "First" : "Second";
             int winnerSum = firstPlayer.Count > secondPlayer.Count ? firstPlayer.Sum() : secondPlayer.Sum();
-            Console.WriteLine($"{winner} player wins! Sum: {winnerSum}");
-        }                      
+            return $"{winner} player wins! Sum: {winnerSum}";
+        }
     }
 }
