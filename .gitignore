@@ -1,0 +1,55 @@
+# Visual Studio files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+*.pdb
+*.ipdb
+*.iobj
+
+# Visual Studio cache and temporary files
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
+
+# Visual Studio diagnostics and test results
+TestResults/
+*.trx
+*.xml
+*.coverage
+*.coveragexml
+
+# .NET Core and NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+*.nupkg
+*.snupkg
+
+# Roslyn compiler
+*.ide/
+
+# Other common ignores
+*.bak
+*.tmp
+*.swp
+*~
+Thumbs.db
