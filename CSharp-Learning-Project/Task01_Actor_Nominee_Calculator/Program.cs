@@ -1,8 +1,8 @@
 ﻿namespace Task01_Actor_Nominee_Calculator
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string actorName = Console.ReadLine();
             double startPoints = double.Parse(Console.ReadLine());
