@@ -1,11 +1,15 @@
 ﻿namespace Task39_MergeConsecutiveEqualNumbers
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             List<int> numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
-
+            string result = MergeNumbers(numbers);
+            Console.WriteLine(result);
+        }
+        public static string MergeNumbers(List<int> numbers)
+        {
             for (int i = 0; i < numbers.Count - 1; i++)
             {
                 if (numbers[i] == numbers[i + 1])
@@ -15,7 +19,7 @@
                     i = -1;
                 }
             }
-            Console.WriteLine(string.Join(" ", numbers));
+            return string.Join(" ", numbers);
         }
     }
 }
