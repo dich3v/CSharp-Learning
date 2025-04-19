@@ -1,12 +1,17 @@
 ﻿namespace Task40_MergingLists
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> firstList = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
             List<int> secondList = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
+            string result = MergeLists(firstList, secondList);
+            Console.WriteLine(result);
+        }
 
+        public static string MergeLists(List<int> firstList, List<int> secondList)
+        {
             List<int> mergedList = new List<int>();
 
             int iterations = firstList.Count >= secondList.Count ? firstList.Count : secondList.Count;
@@ -22,7 +27,7 @@
                     mergedList.Add(secondList[i]);
                 }
             }
-            Console.WriteLine(string.Join(" ", mergedList));
+            return string.Join(" ", mergedList);
         }
     }
 }
