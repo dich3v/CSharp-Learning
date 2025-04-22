@@ -1,10 +1,18 @@
 ﻿namespace Task27_SumPairsfromList
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> list = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
+
+            string result = SumPairs(list);
+
+            Console.WriteLine(result);
+        }
+
+        public static string SumPairs(List<int> list)
+        {
             List<int> result = new List<int>();
 
             int lastElement = list.Count - 1;
@@ -17,7 +25,7 @@
             {
                 result.Add(list[list.Count / 2]);
             }
-            Console.WriteLine(string.Join(" ", result));
+            return string.Join(" ", result);
         }
     }
 }
