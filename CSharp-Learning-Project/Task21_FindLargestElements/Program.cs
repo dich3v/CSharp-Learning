@@ -1,11 +1,17 @@
 ﻿namespace Task21_FindLargestElements
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> list = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
+            string result = FindLargestElements(list);
 
+            Console.WriteLine(result);
+        }
+
+        public static string FindLargestElements(List<int> list)
+        {
             List<int> biggestNums = new List<int>();
 
             for (int i = 0; i < list.Count - 1; i++)
@@ -23,7 +29,7 @@
                 }
             }
             biggestNums.Add(list.Last());
-            Console.WriteLine(string.Join(" ", biggestNums));
+            return string.Join(" ", biggestNums);
         }
     }
 }
