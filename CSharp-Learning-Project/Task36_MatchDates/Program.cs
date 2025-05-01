@@ -2,17 +2,28 @@
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Task_MatchDates
+namespace Task36_MatchDates
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string text = Console.ReadLine();
+            string result = Match(text);
 
-            Regex pattern = new Regex(@"(?<day>[0-9]{2})(?<separator>[./-])(?<month>[A-Z][a-z]{2})\k<separator>(?<year>[0-9]{4})");
+            Console.WriteLine(result);
+        }
+        public static string Match(string dates)
+        {
+            if (string.IsNullOrWhiteSpace(dates))
+            {
+                throw new ArgumentException("Input cannot be null or empty!");
+            }
 
-            MatchCollection matches = pattern.Matches(text);
+            Regex pattern = new(@"\b(?<day>\d{2})(?<seperator>[-.\/])(?<month>[A-Z][a-z]+)\k<seperator>(?<year>\d{4})");
+
+            MatchCollection matches = pattern.Matches(dates);
+            List<string> results = new();
 
             foreach (Match match in matches)
             {
@@ -20,8 +31,9 @@ namespace Task_MatchDates
                 string month = match.Groups["month"].Value;
                 string year = match.Groups["year"].Value;
 
-                Console.WriteLine($"Day: {day}, Month: {month}, Year: {year}");
+                results.Add($"Day: {day}, Month: {month}, Year: {year}");
             }
+            return results.Count > 0 ? string.Join("\n", results) : "No valid date found";
         }
     }
 }
