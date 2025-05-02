@@ -1,32 +1,32 @@
-﻿namespace Task51_RemoveWordFromText
+﻿using System.Text.RegularExpressions;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace Task51_RemoveWordFromText
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            string text = Console.ReadLine().ToLower();
+            string text = Console.ReadLine();
             string word = Console.ReadLine();
 
-            string result = RemoveText(text, word);
+            string result = RemoveWord(text, word);
 
             Console.WriteLine(result);
         }
-
-        public static string RemoveText(string text, string word)
+        public static string RemoveWord(string text, string word)
         {
-            while (text.Contains(word))
+            int index = text.IndexOf(word, StringComparison.OrdinalIgnoreCase);
+            while (index >= 0)
             {
-                int index = text.IndexOf(word);
-                int count = word.Length;
-                text = text.Remove(index, count);
+                text = text.Remove(index, word.Length);
+                index = text.IndexOf(word, StringComparison.OrdinalIgnoreCase);
             }
             while (text.Contains("  "))
             {
                 text = text.Replace("  ", " ");
             }
-            text = text.Trim();
-
-            return text;
+            return text.Trim();
         }
     }
 }
