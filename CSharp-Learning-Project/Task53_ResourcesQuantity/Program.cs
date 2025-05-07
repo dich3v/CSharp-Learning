@@ -1,16 +1,25 @@
-﻿namespace Task53_ResourcesQuantity
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            string resource = "";
+﻿using System.Text;
 
+namespace Task53_ResourcesQuantity
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            List<string> list = Console.ReadLine().Split().ToList();
+
+            string result = Miner(list);
+            Console.WriteLine(result);
+
+        }
+        public static string Miner(List<string> list)
+        {
             Dictionary<string, int> dict = new Dictionary<string, int>();
 
-            while ((resource = Console.ReadLine()) != "stop")
+            for (int i = 0; i < list.Count; i += 2)
             {
-                int quantity = int.Parse(Console.ReadLine());
+                string resource = list[i].ToLower();
+                int quantity = int.Parse(list[i + 1]);
 
                 if (dict.ContainsKey(resource))
                 {
@@ -21,10 +30,13 @@
                     dict.Add(resource, quantity);
                 }
             }
+
+            StringBuilder sb = new StringBuilder();
             foreach (KeyValuePair<string, int> kvp in dict)
             {
-                Console.WriteLine($"{kvp.Key} -> {kvp.Value}");
+                sb.AppendLine($"{kvp.Key} -> {kvp.Value}");
             }
+            return sb.ToString().Trim();
         }
     }
 }
